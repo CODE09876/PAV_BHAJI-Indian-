@@ -1,4 +1,4 @@
-Pav bhaji is a fast food dish from India consisting of a thick vegetable curry served with a soft bread roll.
+Pav bhaji is a fast food dish from India consisting of a thick vegetable curry served with a soft bread roll.:yum:
 
 Its origins are in the state of Maharashtra.
 
