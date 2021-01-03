@@ -1,20 +1,20 @@
-BHAJI:
+**BHAJI:**
 
-mashed Potatoes
-Spring Onion
-Chopped Onion
-Bell Peppers
-Tomato
-Garlic
-Ginger
-Green Pea 
-Butter
-Red Chilli Powder
-Pav Bhaji Spiece Power
-Corriender leaf 
+mashed Potatoes,
+Spring Onion,
+Chopped Onion,
+Bell Peppers,
+Tomato,
+Garlic,
+Ginger,
+Green Pea ,
+Butter,
+Red Chilli Powder,
+Pav Bhaji Spiece Power,
+Corriender leaf ,
 Salt
 
-Pav:
+**Pav:**
 
-Pav (bread rolls)
+Pav (bread rolls),
 Butter
